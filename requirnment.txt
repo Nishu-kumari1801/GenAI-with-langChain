@@ -1,2 +1,5 @@
 ipykernal
 numpy
+streamlit
+panda 
+pyarrow
